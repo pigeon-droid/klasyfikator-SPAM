@@ -12,7 +12,7 @@ Projekt powstał w Pythonie z wykorzystaniem bibliotek:
 
 Maile do projektu zostały [pobrane z seriwsu Kaggle](https://www.kaggle.com/karthickveerakumar/spam-filter) i znajdują się nadesłanym rozwiązaniu. Z racji tego, że jest zbiór maili w języku angielskim, klasyfikator będzie działał wyłącznie dla maili w tym języku.
 
-Program wydaje się na tyle prosty, że pozostawiam go bez wyjaśniania, licząc, że wystarczą do tego komentarze w kodzie. 
+Program wydaje się na tyle prosty, że pozostawiam go bez wyjaśniania, licząc, że wystarczą do tego komentarze w kodzie. Należy jednak zwrócić uwagę, że przetwarzanie danych zajmuje około 10-15 minut.
 
 Otrzymane klasyfikatorem wyniki okazały się bardzo obiecujące. Dla 5155 maili w części treningowej i 573 w części testowej otrzymałem:
 - Accuracy 98.78%
